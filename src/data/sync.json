@@ -1,0 +1,3014 @@
+{
+ "fps": 30,
+ "duration": 120.192,
+ "durationInFrames": 3606,
+ "scenes": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "end": 9.69,
+   "startFrame": 0,
+   "endFrame": 291
+  },
+  {
+   "id": "problem",
+   "start": 9.69,
+   "end": 22.846,
+   "startFrame": 291,
+   "endFrame": 685
+  },
+  {
+   "id": "brand",
+   "start": 22.846,
+   "end": 43.849,
+   "startFrame": 685,
+   "endFrame": 1315
+  },
+  {
+   "id": "offer",
+   "start": 43.849,
+   "end": 72.523,
+   "startFrame": 1315,
+   "endFrame": 2176
+  },
+  {
+   "id": "dashboard",
+   "start": 72.523,
+   "end": 93.882,
+   "startFrame": 2176,
+   "endFrame": 2816
+  },
+  {
+   "id": "slots",
+   "start": 93.882,
+   "end": 104.685,
+   "startFrame": 2816,
+   "endFrame": 3141
+  },
+  {
+   "id": "cta",
+   "start": 104.685,
+   "end": 120.192,
+   "startFrame": 3141,
+   "endFrame": 3606
+  }
+ ],
+ "words": [
+  {
+   "w": "Ek",
+   "spoken": "Ek",
+   "scene": 0,
+   "start": 0.0,
+   "end": 0.162,
+   "punct": ""
+  },
+  {
+   "w": "second",
+   "spoken": "second",
+   "scene": 0,
+   "start": 0.162,
+   "end": 0.487,
+   "punct": ""
+  },
+  {
+   "w": "rukiye",
+   "spoken": "rukiye",
+   "scene": 0,
+   "start": 0.487,
+   "end": 0.811,
+   "punct": "..."
+  },
+  {
+   "w": "Kya",
+   "spoken": "Kya",
+   "scene": 0,
+   "start": 1.444,
+   "end": 1.607,
+   "punct": ""
+  },
+  {
+   "w": "aap",
+   "spoken": "aap",
+   "scene": 0,
+   "start": 1.607,
+   "end": 1.771,
+   "punct": ""
+  },
+  {
+   "w": "abhi",
+   "spoken": "abhi",
+   "scene": 0,
+   "start": 1.771,
+   "end": 2.099,
+   "punct": ""
+  },
+  {
+   "w": "bhi",
+   "spoken": "bhi",
+   "scene": 0,
+   "start": 2.099,
+   "end": 2.262,
+   "punct": ""
+  },
+  {
+   "w": "apne",
+   "spoken": "apne",
+   "scene": 0,
+   "start": 2.262,
+   "end": 2.426,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 0,
+   "start": 2.426,
+   "end": 2.917,
+   "punct": ""
+  },
+  {
+   "w": "ki",
+   "spoken": "ki",
+   "scene": 0,
+   "start": 2.917,
+   "end": 3.081,
+   "punct": ""
+  },
+  {
+   "w": "website",
+   "spoken": "website",
+   "scene": 0,
+   "start": 3.081,
+   "end": 3.408,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 0,
+   "start": 3.408,
+   "end": 3.572,
+   "punct": ""
+  },
+  {
+   "w": "mobile",
+   "spoken": "mobile",
+   "scene": 0,
+   "start": 3.572,
+   "end": 3.9,
+   "punct": ""
+  },
+  {
+   "w": "app",
+   "spoken": "app",
+   "scene": 0,
+   "start": 3.9,
+   "end": 4.063,
+   "punct": ""
+  },
+  {
+   "w": "banwane",
+   "spoken": "banwane",
+   "scene": 0,
+   "start": 4.063,
+   "end": 4.391,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 0,
+   "start": 4.391,
+   "end": 4.555,
+   "punct": ""
+  },
+  {
+   "w": "liye",
+   "spoken": "liye",
+   "scene": 0,
+   "start": 4.555,
+   "end": 4.718,
+   "punct": ""
+  },
+  {
+   "w": "pachchis",
+   "spoken": "pachchis",
+   "scene": 0,
+   "start": 5.096,
+   "end": 5.41,
+   "punct": ""
+  },
+  {
+   "w": "se",
+   "spoken": "se",
+   "scene": 0,
+   "start": 5.41,
+   "end": 5.567,
+   "punct": ""
+  },
+  {
+   "w": "pachhattar",
+   "spoken": "pachhattar",
+   "scene": 0,
+   "start": 5.567,
+   "end": 6.038,
+   "punct": ""
+  },
+  {
+   "w": "hazaar",
+   "spoken": "hazaar",
+   "scene": 0,
+   "start": 6.038,
+   "end": 6.352,
+   "punct": ""
+  },
+  {
+   "w": "rupaye",
+   "spoken": "rupaye",
+   "scene": 0,
+   "start": 6.352,
+   "end": 6.666,
+   "punct": ""
+  },
+  {
+   "w": "kharch",
+   "spoken": "kharch",
+   "scene": 0,
+   "start": 6.666,
+   "end": 6.823,
+   "punct": ""
+  },
+  {
+   "w": "karne",
+   "spoken": "karne",
+   "scene": 0,
+   "start": 6.823,
+   "end": 6.98,
+   "punct": ""
+  },
+  {
+   "w": "ka",
+   "spoken": "ka",
+   "scene": 0,
+   "start": 6.98,
+   "end": 7.137,
+   "punct": ""
+  },
+  {
+   "w": "soch",
+   "spoken": "soch",
+   "scene": 0,
+   "start": 7.137,
+   "end": 7.294,
+   "punct": ""
+  },
+  {
+   "w": "rahe",
+   "spoken": "rahe",
+   "scene": 0,
+   "start": 7.294,
+   "end": 7.451,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 0,
+   "start": 7.451,
+   "end": 7.608,
+   "punct": "?"
+  },
+  {
+   "w": "Mat",
+   "spoken": "Mat",
+   "scene": 0,
+   "start": 8.172,
+   "end": 8.412,
+   "punct": ""
+  },
+  {
+   "w": "kijiye",
+   "spoken": "kijiye",
+   "scene": 0,
+   "start": 8.412,
+   "end": 8.891,
+   "punct": "."
+  },
+  {
+   "w": "Aaj",
+   "spoken": "Aaj",
+   "scene": 1,
+   "start": 9.19,
+   "end": 9.387,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 1,
+   "start": 9.387,
+   "end": 9.583,
+   "punct": ""
+  },
+  {
+   "w": "market",
+   "spoken": "market",
+   "scene": 1,
+   "start": 9.583,
+   "end": 9.976,
+   "punct": ""
+  },
+  {
+   "w": "mein",
+   "spoken": "mein",
+   "scene": 1,
+   "start": 9.976,
+   "end": 10.173,
+   "punct": ""
+  },
+  {
+   "w": "sirf",
+   "spoken": "sirf",
+   "scene": 1,
+   "start": 10.173,
+   "end": 10.37,
+   "punct": ""
+  },
+  {
+   "w": "offline",
+   "spoken": "offline",
+   "scene": 1,
+   "start": 10.37,
+   "end": 10.763,
+   "punct": ""
+  },
+  {
+   "w": "shop",
+   "spoken": "shop",
+   "scene": 1,
+   "start": 10.763,
+   "end": 10.959,
+   "punct": ""
+  },
+  {
+   "w": "ya",
+   "spoken": "ya",
+   "scene": 1,
+   "start": 10.959,
+   "end": 11.156,
+   "punct": ""
+  },
+  {
+   "w": "purana",
+   "spoken": "purana",
+   "scene": 1,
+   "start": 11.156,
+   "end": 11.746,
+   "punct": ""
+  },
+  {
+   "w": "system",
+   "spoken": "system",
+   "scene": 1,
+   "start": 11.746,
+   "end": 12.139,
+   "punct": ""
+  },
+  {
+   "w": "kaafi",
+   "spoken": "kaafi",
+   "scene": 1,
+   "start": 12.139,
+   "end": 12.532,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 1,
+   "start": 12.532,
+   "end": 12.925,
+   "punct": ""
+  },
+  {
+   "w": "hai",
+   "spoken": "hai",
+   "scene": 1,
+   "start": 12.925,
+   "end": 13.122,
+   "punct": "."
+  },
+  {
+   "w": "Customers",
+   "spoken": "Customers",
+   "scene": 1,
+   "start": 13.614,
+   "end": 14.403,
+   "punct": ""
+  },
+  {
+   "w": "sabse",
+   "spoken": "sabse",
+   "scene": 1,
+   "start": 14.403,
+   "end": 14.666,
+   "punct": ""
+  },
+  {
+   "w": "pehle",
+   "spoken": "pehle",
+   "scene": 1,
+   "start": 14.666,
+   "end": 14.929,
+   "punct": ""
+  },
+  {
+   "w": "online",
+   "spoken": "online",
+   "scene": 1,
+   "start": 14.929,
+   "end": 15.455,
+   "punct": ""
+  },
+  {
+   "w": "search",
+   "spoken": "search",
+   "scene": 1,
+   "start": 15.455,
+   "end": 15.718,
+   "punct": ""
+  },
+  {
+   "w": "karte",
+   "spoken": "karte",
+   "scene": 1,
+   "start": 15.718,
+   "end": 15.981,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 1,
+   "start": 15.981,
+   "end": 16.244,
+   "punct": "..."
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 1,
+   "start": 16.77,
+   "end": 16.916,
+   "punct": ""
+  },
+  {
+   "w": "agar",
+   "spoken": "agar",
+   "scene": 1,
+   "start": 16.916,
+   "end": 17.208,
+   "punct": ""
+  },
+  {
+   "w": "aapka",
+   "spoken": "aapka",
+   "scene": 1,
+   "start": 17.208,
+   "end": 17.5,
+   "punct": ""
+  },
+  {
+   "w": "khud",
+   "spoken": "khud",
+   "scene": 1,
+   "start": 17.5,
+   "end": 17.646,
+   "punct": ""
+  },
+  {
+   "w": "ka",
+   "spoken": "ka",
+   "scene": 1,
+   "start": 17.646,
+   "end": 17.791,
+   "punct": ""
+  },
+  {
+   "w": "digital",
+   "spoken": "digital",
+   "scene": 1,
+   "start": 17.791,
+   "end": 18.229,
+   "punct": ""
+  },
+  {
+   "w": "brand",
+   "spoken": "brand",
+   "scene": 1,
+   "start": 18.229,
+   "end": 18.375,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 1,
+   "start": 18.375,
+   "end": 18.667,
+   "punct": ""
+  },
+  {
+   "w": "hai",
+   "spoken": "hai",
+   "scene": 1,
+   "start": 18.667,
+   "end": 18.812,
+   "punct": ","
+  },
+  {
+   "w": "toh",
+   "spoken": "toh",
+   "scene": 1,
+   "start": 19.163,
+   "end": 19.344,
+   "punct": ""
+  },
+  {
+   "w": "aapke",
+   "spoken": "aapke",
+   "scene": 1,
+   "start": 19.344,
+   "end": 19.707,
+   "punct": ""
+  },
+  {
+   "w": "clients",
+   "spoken": "clients",
+   "scene": 1,
+   "start": 19.707,
+   "end": 19.888,
+   "punct": ""
+  },
+  {
+   "w": "seedha",
+   "spoken": "seedha",
+   "scene": 1,
+   "start": 19.888,
+   "end": 20.25,
+   "punct": ""
+  },
+  {
+   "w": "aapke",
+   "spoken": "aapke",
+   "scene": 1,
+   "start": 20.25,
+   "end": 20.613,
+   "punct": ""
+  },
+  {
+   "w": "competitors",
+   "spoken": "competitors",
+   "scene": 1,
+   "start": 20.613,
+   "end": 21.338,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 1,
+   "start": 21.338,
+   "end": 21.519,
+   "punct": ""
+  },
+  {
+   "w": "paas",
+   "spoken": "paas",
+   "scene": 1,
+   "start": 21.519,
+   "end": 21.7,
+   "punct": ""
+  },
+  {
+   "w": "ja",
+   "spoken": "ja",
+   "scene": 1,
+   "start": 21.7,
+   "end": 21.882,
+   "punct": ""
+  },
+  {
+   "w": "rahe",
+   "spoken": "rahe",
+   "scene": 1,
+   "start": 21.882,
+   "end": 22.063,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 1,
+   "start": 22.063,
+   "end": 22.244,
+   "punct": "."
+  },
+  {
+   "w": "Isi",
+   "spoken": "Isi",
+   "scene": 2,
+   "start": 22.966,
+   "end": 23.34,
+   "punct": ""
+  },
+  {
+   "w": "gap",
+   "spoken": "gap",
+   "scene": 2,
+   "start": 23.34,
+   "end": 23.528,
+   "punct": ""
+  },
+  {
+   "w": "ko",
+   "spoken": "ko",
+   "scene": 2,
+   "start": 23.528,
+   "end": 23.715,
+   "punct": ""
+  },
+  {
+   "w": "khatam",
+   "spoken": "khatam",
+   "scene": 2,
+   "start": 23.715,
+   "end": 24.089,
+   "punct": ""
+  },
+  {
+   "w": "karne",
+   "spoken": "karne",
+   "scene": 2,
+   "start": 24.089,
+   "end": 24.276,
+   "punct": ""
+  },
+  {
+   "w": "aaya",
+   "spoken": "aaya",
+   "scene": 2,
+   "start": 24.276,
+   "end": 24.463,
+   "punct": ""
+  },
+  {
+   "w": "hai",
+   "spoken": "hai",
+   "scene": 2,
+   "start": 24.463,
+   "end": 24.65,
+   "punct": "—"
+  },
+  {
+   "w": "AJ",
+   "spoken": "A_J",
+   "scene": 2,
+   "start": 25.038,
+   "end": 25.407,
+   "punct": ""
+  },
+  {
+   "w": "System",
+   "spoken": "System",
+   "scene": 2,
+   "start": 25.407,
+   "end": 25.776,
+   "punct": ""
+  },
+  {
+   "w": "Soft",
+   "spoken": "Soft",
+   "scene": 2,
+   "start": 25.776,
+   "end": 25.96,
+   "punct": ""
+  },
+  {
+   "w": "Technology",
+   "spoken": "Technology",
+   "scene": 2,
+   "start": 25.96,
+   "end": 26.698,
+   "punct": "."
+  },
+  {
+   "w": "Ek",
+   "spoken": "Ek",
+   "scene": 2,
+   "start": 27.396,
+   "end": 27.578,
+   "punct": ""
+  },
+  {
+   "w": "MSME",
+   "spoken": "M_S_M_E",
+   "scene": 2,
+   "start": 27.578,
+   "end": 28.306,
+   "punct": ""
+  },
+  {
+   "w": "registered",
+   "spoken": "registered",
+   "scene": 2,
+   "start": 28.306,
+   "end": 29.034,
+   "punct": ""
+  },
+  {
+   "w": "software",
+   "spoken": "software",
+   "scene": 2,
+   "start": 29.034,
+   "end": 29.398,
+   "punct": ""
+  },
+  {
+   "w": "company",
+   "spoken": "company",
+   "scene": 2,
+   "start": 29.398,
+   "end": 29.944,
+   "punct": ","
+  },
+  {
+   "w": "jahan",
+   "spoken": "jahan",
+   "scene": 2,
+   "start": 29.944,
+   "end": 30.309,
+   "punct": ""
+  },
+  {
+   "w": "koi",
+   "spoken": "koi",
+   "scene": 2,
+   "start": 30.309,
+   "end": 30.491,
+   "punct": ""
+  },
+  {
+   "w": "copy-paste",
+   "spoken": "copy-paste",
+   "scene": 2,
+   "start": 30.491,
+   "end": 31.037,
+   "punct": ""
+  },
+  {
+   "w": "template",
+   "spoken": "template",
+   "scene": 2,
+   "start": 31.037,
+   "end": 31.401,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 2,
+   "start": 31.401,
+   "end": 31.765,
+   "punct": ""
+  },
+  {
+   "w": "chalta",
+   "spoken": "chalta",
+   "scene": 2,
+   "start": 31.765,
+   "end": 32.129,
+   "punct": "."
+  },
+  {
+   "w": "Hum",
+   "spoken": "Hum",
+   "scene": 2,
+   "start": 32.894,
+   "end": 33.076,
+   "punct": ""
+  },
+  {
+   "w": "banate",
+   "spoken": "banate",
+   "scene": 2,
+   "start": 33.076,
+   "end": 33.441,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 2,
+   "start": 33.441,
+   "end": 33.623,
+   "punct": ""
+  },
+  {
+   "w": "custom",
+   "spoken": "custom",
+   "scene": 2,
+   "start": 33.623,
+   "end": 33.988,
+   "punct": ""
+  },
+  {
+   "w": "websites",
+   "spoken": "websites",
+   "scene": 2,
+   "start": 33.988,
+   "end": 34.535,
+   "punct": ","
+  },
+  {
+   "w": "Android",
+   "spoken": "Android",
+   "scene": 2,
+   "start": 34.883,
+   "end": 35.475,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 2,
+   "start": 35.475,
+   "end": 35.77,
+   "punct": ""
+  },
+  {
+   "w": "iOS",
+   "spoken": "iOS",
+   "scene": 2,
+   "start": 35.77,
+   "end": 36.066,
+   "punct": ""
+  },
+  {
+   "w": "apps",
+   "spoken": "apps",
+   "scene": 2,
+   "start": 36.066,
+   "end": 36.362,
+   "punct": ","
+  },
+  {
+   "w": "SaaS",
+   "spoken": "SaaS",
+   "scene": 2,
+   "start": 36.709,
+   "end": 37.061,
+   "punct": ""
+  },
+  {
+   "w": "platforms",
+   "spoken": "platforms",
+   "scene": 2,
+   "start": 37.061,
+   "end": 37.764,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 2,
+   "start": 37.969,
+   "end": 38.204,
+   "punct": ""
+  },
+  {
+   "w": "smart",
+   "spoken": "smart",
+   "scene": 2,
+   "start": 38.204,
+   "end": 38.439,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 2,
+   "start": 38.439,
+   "end": 39.144,
+   "punct": ""
+  },
+  {
+   "w": "dashboards",
+   "spoken": "dashboards",
+   "scene": 2,
+   "start": 39.144,
+   "end": 39.613,
+   "punct": "—"
+  },
+  {
+   "w": "jo",
+   "spoken": "jo",
+   "scene": 2,
+   "start": 40.11,
+   "end": 40.294,
+   "punct": ""
+  },
+  {
+   "w": "sirf",
+   "spoken": "sirf",
+   "scene": 2,
+   "start": 40.294,
+   "end": 40.477,
+   "punct": ""
+  },
+  {
+   "w": "aapke",
+   "spoken": "aapke",
+   "scene": 2,
+   "start": 40.477,
+   "end": 40.843,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 2,
+   "start": 40.843,
+   "end": 41.392,
+   "punct": ""
+  },
+  {
+   "w": "workflow",
+   "spoken": "workflow",
+   "scene": 2,
+   "start": 41.392,
+   "end": 41.758,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 2,
+   "start": 41.758,
+   "end": 41.941,
+   "punct": ""
+  },
+  {
+   "w": "hisaab",
+   "spoken": "hisaab",
+   "scene": 2,
+   "start": 41.941,
+   "end": 42.308,
+   "punct": ""
+  },
+  {
+   "w": "se",
+   "spoken": "se",
+   "scene": 2,
+   "start": 42.308,
+   "end": 42.491,
+   "punct": ""
+  },
+  {
+   "w": "design",
+   "spoken": "design",
+   "scene": 2,
+   "start": 42.491,
+   "end": 42.857,
+   "punct": ""
+  },
+  {
+   "w": "hote",
+   "spoken": "hote",
+   "scene": 2,
+   "start": 42.857,
+   "end": 43.04,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 2,
+   "start": 43.04,
+   "end": 43.223,
+   "punct": "."
+  },
+  {
+   "w": "Aur",
+   "spoken": "Aur",
+   "scene": 3,
+   "start": 43.969,
+   "end": 44.151,
+   "punct": ""
+  },
+  {
+   "w": "ab",
+   "spoken": "ab",
+   "scene": 3,
+   "start": 44.151,
+   "end": 44.333,
+   "punct": ","
+  },
+  {
+   "w": "is",
+   "spoken": "is",
+   "scene": 3,
+   "start": 44.333,
+   "end": 44.515,
+   "punct": ""
+  },
+  {
+   "w": "Christmas",
+   "spoken": "Christmas",
+   "scene": 3,
+   "start": 44.515,
+   "end": 44.879,
+   "punct": ""
+  },
+  {
+   "w": "festival",
+   "spoken": "festival",
+   "scene": 3,
+   "start": 44.879,
+   "end": 45.425,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 3,
+   "start": 45.425,
+   "end": 45.607,
+   "punct": ","
+  },
+  {
+   "w": "hum",
+   "spoken": "hum",
+   "scene": 3,
+   "start": 45.965,
+   "end": 46.146,
+   "punct": ""
+  },
+  {
+   "w": "aapke",
+   "spoken": "aapke",
+   "scene": 3,
+   "start": 46.146,
+   "end": 46.51,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 3,
+   "start": 46.51,
+   "end": 47.055,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 3,
+   "start": 47.055,
+   "end": 47.236,
+   "punct": ""
+  },
+  {
+   "w": "liye",
+   "spoken": "liye",
+   "scene": 3,
+   "start": 47.236,
+   "end": 47.418,
+   "punct": ""
+  },
+  {
+   "w": "laaye",
+   "spoken": "laaye",
+   "scene": 3,
+   "start": 47.418,
+   "end": 47.6,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 3,
+   "start": 47.6,
+   "end": 47.781,
+   "punct": ""
+  },
+  {
+   "w": "sabse",
+   "spoken": "sabse",
+   "scene": 3,
+   "start": 47.781,
+   "end": 47.963,
+   "punct": ""
+  },
+  {
+   "w": "bada",
+   "spoken": "bada",
+   "scene": 3,
+   "start": 47.963,
+   "end": 48.326,
+   "punct": ""
+  },
+  {
+   "w": "Christmas",
+   "spoken": "Christmas",
+   "scene": 3,
+   "start": 48.326,
+   "end": 48.689,
+   "punct": ""
+  },
+  {
+   "w": "gift",
+   "spoken": "gift",
+   "scene": 3,
+   "start": 48.689,
+   "end": 48.871,
+   "punct": "—"
+  },
+  {
+   "w": "ek",
+   "spoken": "ek",
+   "scene": 3,
+   "start": 49.435,
+   "end": 49.596,
+   "punct": ""
+  },
+  {
+   "w": "aisa",
+   "spoken": "aisa",
+   "scene": 3,
+   "start": 49.596,
+   "end": 49.916,
+   "punct": ""
+  },
+  {
+   "w": "offer",
+   "spoken": "offer",
+   "scene": 3,
+   "start": 49.916,
+   "end": 50.236,
+   "punct": ""
+  },
+  {
+   "w": "jo",
+   "spoken": "jo",
+   "scene": 3,
+   "start": 50.52,
+   "end": 50.677,
+   "punct": ""
+  },
+  {
+   "w": "aapne",
+   "spoken": "aapne",
+   "scene": 3,
+   "start": 50.677,
+   "end": 50.834,
+   "punct": ""
+  },
+  {
+   "w": "pehle",
+   "spoken": "pehle",
+   "scene": 3,
+   "start": 50.834,
+   "end": 50.991,
+   "punct": ""
+  },
+  {
+   "w": "kabhi",
+   "spoken": "kabhi",
+   "scene": 3,
+   "start": 50.991,
+   "end": 51.304,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 3,
+   "start": 51.304,
+   "end": 51.618,
+   "punct": ""
+  },
+  {
+   "w": "dekha",
+   "spoken": "dekha",
+   "scene": 3,
+   "start": 51.618,
+   "end": 51.932,
+   "punct": ""
+  },
+  {
+   "w": "hoga",
+   "spoken": "hoga",
+   "scene": 3,
+   "start": 51.932,
+   "end": 52.245,
+   "punct": "."
+  },
+  {
+   "w": "Poore",
+   "spoken": "Poore",
+   "scene": 3,
+   "start": 53.045,
+   "end": 53.234,
+   "punct": ""
+  },
+  {
+   "w": "6",
+   "spoken": "6",
+   "scene": 3,
+   "start": 53.234,
+   "end": 53.611,
+   "punct": ""
+  },
+  {
+   "w": "months",
+   "spoken": "months",
+   "scene": 3,
+   "start": 53.611,
+   "end": 53.799,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 3,
+   "start": 53.799,
+   "end": 53.987,
+   "punct": ""
+  },
+  {
+   "w": "liye",
+   "spoken": "liye",
+   "scene": 3,
+   "start": 53.987,
+   "end": 54.176,
+   "punct": ","
+  },
+  {
+   "w": "aapki",
+   "spoken": "aapki",
+   "scene": 3,
+   "start": 54.176,
+   "end": 54.552,
+   "punct": ""
+  },
+  {
+   "w": "fully",
+   "spoken": "fully",
+   "scene": 3,
+   "start": 54.552,
+   "end": 54.929,
+   "punct": ""
+  },
+  {
+   "w": "customized",
+   "spoken": "customized",
+   "scene": 3,
+   "start": 54.929,
+   "end": 55.683,
+   "punct": ""
+  },
+  {
+   "w": "website",
+   "spoken": "website",
+   "scene": 3,
+   "start": 55.683,
+   "end": 56.059,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 3,
+   "start": 56.059,
+   "end": 56.248,
+   "punct": ""
+  },
+  {
+   "w": "mobile",
+   "spoken": "mobile",
+   "scene": 3,
+   "start": 56.248,
+   "end": 56.624,
+   "punct": ""
+  },
+  {
+   "w": "application",
+   "spoken": "application",
+   "scene": 3,
+   "start": 56.624,
+   "end": 57.378,
+   "punct": "—"
+  },
+  {
+   "w": "bilkul",
+   "spoken": "bilkul",
+   "scene": 3,
+   "start": 57.648,
+   "end": 58.106,
+   "punct": ""
+  },
+  {
+   "w": "free",
+   "spoken": "free",
+   "scene": 3,
+   "start": 58.106,
+   "end": 58.336,
+   "punct": "."
+  },
+  {
+   "w": "Ji",
+   "spoken": "Ji",
+   "scene": 3,
+   "start": 59.167,
+   "end": 59.33,
+   "punct": ""
+  },
+  {
+   "w": "haan",
+   "spoken": "haan",
+   "scene": 3,
+   "start": 59.33,
+   "end": 59.492,
+   "punct": ","
+  },
+  {
+   "w": "aapne",
+   "spoken": "aapne",
+   "scene": 3,
+   "start": 59.787,
+   "end": 59.946,
+   "punct": ""
+  },
+  {
+   "w": "bilkul",
+   "spoken": "bilkul",
+   "scene": 3,
+   "start": 59.946,
+   "end": 60.266,
+   "punct": ""
+  },
+  {
+   "w": "sahi",
+   "spoken": "sahi",
+   "scene": 3,
+   "start": 60.266,
+   "end": 60.585,
+   "punct": ""
+  },
+  {
+   "w": "suna",
+   "spoken": "suna",
+   "scene": 3,
+   "start": 60.585,
+   "end": 60.904,
+   "punct": "."
+  },
+  {
+   "w": "Sirf",
+   "spoken": "Sirf",
+   "scene": 3,
+   "start": 61.3,
+   "end": 61.461,
+   "punct": ""
+  },
+  {
+   "w": "domain",
+   "spoken": "domain",
+   "scene": 3,
+   "start": 61.461,
+   "end": 61.784,
+   "punct": ""
+  },
+  {
+   "w": "aapka",
+   "spoken": "aapka",
+   "scene": 3,
+   "start": 61.784,
+   "end": 62.106,
+   "punct": ""
+  },
+  {
+   "w": "rahega",
+   "spoken": "rahega",
+   "scene": 3,
+   "start": 62.106,
+   "end": 62.59,
+   "punct": "..."
+  },
+  {
+   "w": "baaki",
+   "spoken": "baaki",
+   "scene": 3,
+   "start": 63.089,
+   "end": 63.439,
+   "punct": ""
+  },
+  {
+   "w": "poori",
+   "spoken": "poori",
+   "scene": 3,
+   "start": 63.439,
+   "end": 63.789,
+   "punct": ""
+  },
+  {
+   "w": "development",
+   "spoken": "development",
+   "scene": 3,
+   "start": 63.789,
+   "end": 64.49,
+   "punct": ","
+  },
+  {
+   "w": "custom",
+   "spoken": "custom",
+   "scene": 3,
+   "start": 64.67,
+   "end": 65.049,
+   "punct": ""
+  },
+  {
+   "w": "design",
+   "spoken": "design",
+   "scene": 3,
+   "start": 65.049,
+   "end": 65.428,
+   "punct": ","
+  },
+  {
+   "w": "setup",
+   "spoken": "setup",
+   "scene": 3,
+   "start": 65.695,
+   "end": 66.125,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 3,
+   "start": 66.125,
+   "end": 66.34,
+   "punct": ""
+  },
+  {
+   "w": "tech",
+   "spoken": "tech",
+   "scene": 3,
+   "start": 66.34,
+   "end": 66.555,
+   "punct": ""
+  },
+  {
+   "w": "support",
+   "spoken": "support",
+   "scene": 3,
+   "start": 66.555,
+   "end": 66.986,
+   "punct": "—"
+  },
+  {
+   "w": "sab",
+   "spoken": "sab",
+   "scene": 3,
+   "start": 67.251,
+   "end": 67.405,
+   "punct": ""
+  },
+  {
+   "w": "kuch",
+   "spoken": "kuch",
+   "scene": 3,
+   "start": 67.405,
+   "end": 67.56,
+   "punct": ""
+  },
+  {
+   "w": "hamari",
+   "spoken": "hamari",
+   "scene": 3,
+   "start": 67.56,
+   "end": 68.024,
+   "punct": ""
+  },
+  {
+   "w": "taraf",
+   "spoken": "taraf",
+   "scene": 3,
+   "start": 68.024,
+   "end": 68.333,
+   "punct": ""
+  },
+  {
+   "w": "se",
+   "spoken": "se",
+   "scene": 3,
+   "start": 68.333,
+   "end": 68.488,
+   "punct": "."
+  },
+  {
+   "w": "Koi",
+   "spoken": "Koi",
+   "scene": 3,
+   "start": 69.164,
+   "end": 69.325,
+   "punct": ""
+  },
+  {
+   "w": "hidden",
+   "spoken": "hidden",
+   "scene": 3,
+   "start": 69.325,
+   "end": 69.646,
+   "punct": ""
+  },
+  {
+   "w": "charges",
+   "spoken": "charges",
+   "scene": 3,
+   "start": 69.646,
+   "end": 69.967,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 3,
+   "start": 69.967,
+   "end": 70.288,
+   "punct": ","
+  },
+  {
+   "w": "koi",
+   "spoken": "koi",
+   "scene": 3,
+   "start": 70.721,
+   "end": 70.904,
+   "punct": ""
+  },
+  {
+   "w": "forced",
+   "spoken": "forced",
+   "scene": 3,
+   "start": 70.904,
+   "end": 71.272,
+   "punct": ""
+  },
+  {
+   "w": "template",
+   "spoken": "template",
+   "scene": 3,
+   "start": 71.272,
+   "end": 71.639,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 3,
+   "start": 71.639,
+   "end": 72.006,
+   "punct": "."
+  },
+  {
+   "w": "Chahe",
+   "spoken": "Chahe",
+   "scene": 4,
+   "start": 72.643,
+   "end": 72.85,
+   "punct": ""
+  },
+  {
+   "w": "aapka",
+   "spoken": "aapka",
+   "scene": 4,
+   "start": 72.85,
+   "end": 73.264,
+   "punct": ""
+  },
+  {
+   "w": "retail",
+   "spoken": "retail",
+   "scene": 4,
+   "start": 73.264,
+   "end": 73.677,
+   "punct": ""
+  },
+  {
+   "w": "store",
+   "spoken": "store",
+   "scene": 4,
+   "start": 73.677,
+   "end": 73.884,
+   "punct": ""
+  },
+  {
+   "w": "ho",
+   "spoken": "ho",
+   "scene": 4,
+   "start": 73.884,
+   "end": 74.091,
+   "punct": ","
+  },
+  {
+   "w": "clinic",
+   "spoken": "clinic",
+   "scene": 4,
+   "start": 74.429,
+   "end": 74.727,
+   "punct": ""
+  },
+  {
+   "w": "ya",
+   "spoken": "ya",
+   "scene": 4,
+   "start": 74.727,
+   "end": 74.876,
+   "punct": ""
+  },
+  {
+   "w": "hospital",
+   "spoken": "hospital",
+   "scene": 4,
+   "start": 74.876,
+   "end": 75.324,
+   "punct": ""
+  },
+  {
+   "w": "ho",
+   "spoken": "ho",
+   "scene": 4,
+   "start": 75.324,
+   "end": 75.474,
+   "punct": ","
+  },
+  {
+   "w": "hotel",
+   "spoken": "hotel",
+   "scene": 4,
+   "start": 75.966,
+   "end": 76.338,
+   "punct": ""
+  },
+  {
+   "w": "ho",
+   "spoken": "ho",
+   "scene": 4,
+   "start": 76.338,
+   "end": 76.524,
+   "punct": ","
+  },
+  {
+   "w": "manufacturing",
+   "spoken": "manufacturing",
+   "scene": 4,
+   "start": 76.822,
+   "end": 77.56,
+   "punct": ""
+  },
+  {
+   "w": "unit",
+   "spoken": "unit",
+   "scene": 4,
+   "start": 77.56,
+   "end": 77.855,
+   "punct": ""
+  },
+  {
+   "w": "ho",
+   "spoken": "ho",
+   "scene": 4,
+   "start": 77.855,
+   "end": 78.002,
+   "punct": ""
+  },
+  {
+   "w": "ya",
+   "spoken": "ya",
+   "scene": 4,
+   "start": 78.254,
+   "end": 78.44,
+   "punct": ""
+  },
+  {
+   "w": "coaching",
+   "spoken": "coaching",
+   "scene": 4,
+   "start": 78.44,
+   "end": 78.811,
+   "punct": ""
+  },
+  {
+   "w": "institute",
+   "spoken": "institute",
+   "scene": 4,
+   "start": 78.811,
+   "end": 79.368,
+   "punct": "—"
+  },
+  {
+   "w": "aapko",
+   "spoken": "aapko",
+   "scene": 4,
+   "start": 80.07,
+   "end": 80.451,
+   "punct": ""
+  },
+  {
+   "w": "milega",
+   "spoken": "milega",
+   "scene": 4,
+   "start": 80.451,
+   "end": 81.022,
+   "punct": ""
+  },
+  {
+   "w": "fast-loading",
+   "spoken": "fast-loading",
+   "scene": 4,
+   "start": 81.022,
+   "end": 81.593,
+   "punct": ""
+  },
+  {
+   "w": "design",
+   "spoken": "design",
+   "scene": 4,
+   "start": 81.593,
+   "end": 81.974,
+   "punct": ","
+  },
+  {
+   "w": "smart",
+   "spoken": "smart",
+   "scene": 4,
+   "start": 82.335,
+   "end": 82.581,
+   "punct": ""
+  },
+  {
+   "w": "admin",
+   "spoken": "admin",
+   "scene": 4,
+   "start": 82.581,
+   "end": 83.073,
+   "punct": ""
+  },
+  {
+   "w": "panel",
+   "spoken": "panel",
+   "scene": 4,
+   "start": 83.073,
+   "end": 83.566,
+   "punct": ","
+  },
+  {
+   "w": "SEO",
+   "spoken": "S_E_O",
+   "scene": 4,
+   "start": 84.024,
+   "end": 84.552,
+   "punct": ""
+  },
+  {
+   "w": "setup",
+   "spoken": "setup",
+   "scene": 4,
+   "start": 84.552,
+   "end": 84.905,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 4,
+   "start": 84.905,
+   "end": 85.081,
+   "punct": ""
+  },
+  {
+   "w": "live",
+   "spoken": "live",
+   "scene": 4,
+   "start": 85.081,
+   "end": 85.257,
+   "punct": ""
+  },
+  {
+   "w": "billing",
+   "spoken": "billing",
+   "scene": 4,
+   "start": 85.257,
+   "end": 85.609,
+   "punct": ","
+  },
+  {
+   "w": "inventory",
+   "spoken": "inventory",
+   "scene": 4,
+   "start": 86.093,
+   "end": 86.782,
+   "punct": ""
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 4,
+   "start": 86.782,
+   "end": 86.954,
+   "punct": ""
+  },
+  {
+   "w": "sales",
+   "spoken": "sales",
+   "scene": 4,
+   "start": 86.954,
+   "end": 87.298,
+   "punct": ""
+  },
+  {
+   "w": "tracking",
+   "spoken": "tracking",
+   "scene": 4,
+   "start": 87.298,
+   "end": 87.643,
+   "punct": "."
+  },
+  {
+   "w": "Modern",
+   "spoken": "Modern",
+   "scene": 4,
+   "start": 88.344,
+   "end": 88.834,
+   "punct": ""
+  },
+  {
+   "w": "cloud",
+   "spoken": "cloud",
+   "scene": 4,
+   "start": 88.834,
+   "end": 89.079,
+   "punct": ""
+  },
+  {
+   "w": "tech",
+   "spoken": "tech",
+   "scene": 4,
+   "start": 89.079,
+   "end": 89.324,
+   "punct": ""
+  },
+  {
+   "w": "ki",
+   "spoken": "ki",
+   "scene": 4,
+   "start": 89.324,
+   "end": 89.569,
+   "punct": ""
+  },
+  {
+   "w": "speed",
+   "spoken": "speed",
+   "scene": 4,
+   "start": 89.569,
+   "end": 89.814,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 4,
+   "start": 89.814,
+   "end": 90.059,
+   "punct": ""
+  },
+  {
+   "w": "saath",
+   "spoken": "saath",
+   "scene": 4,
+   "start": 90.059,
+   "end": 90.304,
+   "punct": ","
+  },
+  {
+   "w": "aapka",
+   "spoken": "aapka",
+   "scene": 4,
+   "start": 90.654,
+   "end": 91.007,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 4,
+   "start": 91.007,
+   "end": 91.537,
+   "punct": ""
+  },
+  {
+   "w": "chalega",
+   "spoken": "chalega",
+   "scene": 4,
+   "start": 91.537,
+   "end": 92.066,
+   "punct": ""
+  },
+  {
+   "w": "bilkul",
+   "spoken": "bilkul",
+   "scene": 4,
+   "start": 92.066,
+   "end": 92.419,
+   "punct": ""
+  },
+  {
+   "w": "autopilot",
+   "spoken": "autopilot",
+   "scene": 4,
+   "start": 92.419,
+   "end": 93.125,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 4,
+   "start": 93.125,
+   "end": 93.302,
+   "punct": "."
+  },
+  {
+   "w": "Yaad",
+   "spoken": "Yaad",
+   "scene": 5,
+   "start": 94.002,
+   "end": 94.195,
+   "punct": ""
+  },
+  {
+   "w": "rakhiye",
+   "spoken": "rakhiye",
+   "scene": 5,
+   "start": 94.195,
+   "end": 94.58,
+   "punct": ","
+  },
+  {
+   "w": "hum",
+   "spoken": "hum",
+   "scene": 5,
+   "start": 95.111,
+   "end": 95.298,
+   "punct": ""
+  },
+  {
+   "w": "har",
+   "spoken": "har",
+   "scene": 5,
+   "start": 95.298,
+   "end": 95.485,
+   "punct": ""
+  },
+  {
+   "w": "client",
+   "spoken": "client",
+   "scene": 5,
+   "start": 95.485,
+   "end": 95.672,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 5,
+   "start": 95.672,
+   "end": 95.859,
+   "punct": ""
+  },
+  {
+   "w": "project",
+   "spoken": "project",
+   "scene": 5,
+   "start": 95.859,
+   "end": 96.234,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 5,
+   "start": 96.234,
+   "end": 96.421,
+   "punct": ""
+  },
+  {
+   "w": "personal",
+   "spoken": "personal",
+   "scene": 5,
+   "start": 96.421,
+   "end": 96.983,
+   "punct": ""
+  },
+  {
+   "w": "focus",
+   "spoken": "focus",
+   "scene": 5,
+   "start": 96.983,
+   "end": 97.357,
+   "punct": ""
+  },
+  {
+   "w": "dete",
+   "spoken": "dete",
+   "scene": 5,
+   "start": 97.357,
+   "end": 97.544,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 5,
+   "start": 97.544,
+   "end": 97.731,
+   "punct": ","
+  },
+  {
+   "w": "isliye",
+   "spoken": "isliye",
+   "scene": 5,
+   "start": 98.358,
+   "end": 98.771,
+   "punct": ""
+  },
+  {
+   "w": "is",
+   "spoken": "is",
+   "scene": 5,
+   "start": 98.771,
+   "end": 98.978,
+   "punct": ""
+  },
+  {
+   "w": "Christmas",
+   "spoken": "Christmas",
+   "scene": 5,
+   "start": 98.978,
+   "end": 99.391,
+   "punct": ""
+  },
+  {
+   "w": "special",
+   "spoken": "special",
+   "scene": 5,
+   "start": 99.391,
+   "end": 99.805,
+   "punct": ""
+  },
+  {
+   "w": "free",
+   "spoken": "free",
+   "scene": 5,
+   "start": 99.805,
+   "end": 100.011,
+   "punct": ""
+  },
+  {
+   "w": "offer",
+   "spoken": "offer",
+   "scene": 5,
+   "start": 100.011,
+   "end": 100.425,
+   "punct": ""
+  },
+  {
+   "w": "ke",
+   "spoken": "ke",
+   "scene": 5,
+   "start": 100.425,
+   "end": 100.631,
+   "punct": ""
+  },
+  {
+   "w": "slots",
+   "spoken": "slots",
+   "scene": 5,
+   "start": 100.631,
+   "end": 100.838,
+   "punct": ""
+  },
+  {
+   "w": "bohot",
+   "spoken": "bohot",
+   "scene": 5,
+   "start": 101.115,
+   "end": 101.391,
+   "punct": ""
+  },
+  {
+   "w": "limited",
+   "spoken": "limited",
+   "scene": 5,
+   "start": 101.391,
+   "end": 101.805,
+   "punct": ""
+  },
+  {
+   "w": "hain",
+   "spoken": "hain",
+   "scene": 5,
+   "start": 101.805,
+   "end": 101.943,
+   "punct": "."
+  },
+  {
+   "w": "Ye",
+   "spoken": "Ye",
+   "scene": 5,
+   "start": 102.603,
+   "end": 102.745,
+   "punct": ""
+  },
+  {
+   "w": "mauka",
+   "spoken": "mauka",
+   "scene": 5,
+   "start": 102.745,
+   "end": 103.029,
+   "punct": ""
+  },
+  {
+   "w": "dobara",
+   "spoken": "dobara",
+   "scene": 5,
+   "start": 103.029,
+   "end": 103.456,
+   "punct": ""
+  },
+  {
+   "w": "nahi",
+   "spoken": "nahi",
+   "scene": 5,
+   "start": 103.456,
+   "end": 103.74,
+   "punct": ""
+  },
+  {
+   "w": "aayega",
+   "spoken": "aayega",
+   "scene": 5,
+   "start": 103.74,
+   "end": 104.024,
+   "punct": "."
+  },
+  {
+   "w": "Toh",
+   "spoken": "Toh",
+   "scene": 6,
+   "start": 104.805,
+   "end": 104.979,
+   "punct": ""
+  },
+  {
+   "w": "der",
+   "spoken": "der",
+   "scene": 6,
+   "start": 104.979,
+   "end": 105.153,
+   "punct": ""
+  },
+  {
+   "w": "kis",
+   "spoken": "kis",
+   "scene": 6,
+   "start": 105.153,
+   "end": 105.326,
+   "punct": ""
+  },
+  {
+   "w": "baat",
+   "spoken": "baat",
+   "scene": 6,
+   "start": 105.326,
+   "end": 105.5,
+   "punct": ""
+  },
+  {
+   "w": "ki",
+   "spoken": "ki",
+   "scene": 6,
+   "start": 105.5,
+   "end": 105.674,
+   "punct": "?"
+  },
+  {
+   "w": "Is",
+   "spoken": "Is",
+   "scene": 6,
+   "start": 106.494,
+   "end": 106.701,
+   "punct": ""
+  },
+  {
+   "w": "Christmas",
+   "spoken": "Christmas",
+   "scene": 6,
+   "start": 106.701,
+   "end": 107.114,
+   "punct": ""
+  },
+  {
+   "w": "apne",
+   "spoken": "apne",
+   "scene": 6,
+   "start": 107.114,
+   "end": 107.321,
+   "punct": ""
+  },
+  {
+   "w": "business",
+   "spoken": "business",
+   "scene": 6,
+   "start": 107.321,
+   "end": 107.941,
+   "punct": ""
+  },
+  {
+   "w": "ko",
+   "spoken": "ko",
+   "scene": 6,
+   "start": 107.941,
+   "end": 108.148,
+   "punct": ""
+  },
+  {
+   "w": "dijiye",
+   "spoken": "dijiye",
+   "scene": 6,
+   "start": 108.148,
+   "end": 108.562,
+   "punct": ""
+  },
+  {
+   "w": "ek",
+   "spoken": "ek",
+   "scene": 6,
+   "start": 108.562,
+   "end": 108.768,
+   "punct": ""
+  },
+  {
+   "w": "smart",
+   "spoken": "smart",
+   "scene": 6,
+   "start": 108.768,
+   "end": 108.975,
+   "punct": ""
+  },
+  {
+   "w": "digital",
+   "spoken": "digital",
+   "scene": 6,
+   "start": 108.975,
+   "end": 109.595,
+   "punct": ""
+  },
+  {
+   "w": "upgrade",
+   "spoken": "upgrade",
+   "scene": 6,
+   "start": 109.595,
+   "end": 110.009,
+   "punct": "."
+  },
+  {
+   "w": "Abhi",
+   "spoken": "Abhi",
+   "scene": 6,
+   "start": 110.852,
+   "end": 111.164,
+   "punct": ""
+  },
+  {
+   "w": "visit",
+   "spoken": "visit",
+   "scene": 6,
+   "start": 111.164,
+   "end": 111.475,
+   "punct": ""
+  },
+  {
+   "w": "kijiye",
+   "spoken": "kijiye",
+   "scene": 6,
+   "start": 111.475,
+   "end": 111.787,
+   "punct": ""
+  },
+  {
+   "w": "AJ",
+   "spoken": "A_J",
+   "scene": 6,
+   "start": 112.088,
+   "end": 112.552,
+   "punct": ""
+  },
+  {
+   "w": "System",
+   "spoken": "System",
+   "scene": 6,
+   "start": 112.552,
+   "end": 113.016,
+   "punct": ""
+  },
+  {
+   "w": "Soft",
+   "spoken": "Soft",
+   "scene": 6,
+   "start": 113.016,
+   "end": 113.248,
+   "punct": ""
+  },
+  {
+   "w": "dot",
+   "spoken": "dot",
+   "scene": 6,
+   "start": 113.248,
+   "end": 113.48,
+   "punct": ""
+  },
+  {
+   "w": "in",
+   "spoken": "in",
+   "scene": 6,
+   "start": 113.48,
+   "end": 113.712,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 6,
+   "start": 113.712,
+   "end": 113.944,
+   "punct": ","
+  },
+  {
+   "w": "ya",
+   "spoken": "ya",
+   "scene": 6,
+   "start": 114.292,
+   "end": 114.496,
+   "punct": ""
+  },
+  {
+   "w": "screen",
+   "spoken": "screen",
+   "scene": 6,
+   "start": 114.496,
+   "end": 114.701,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 6,
+   "start": 114.701,
+   "end": 114.905,
+   "punct": ""
+  },
+  {
+   "w": "diye",
+   "spoken": "diye",
+   "scene": 6,
+   "start": 114.905,
+   "end": 115.11,
+   "punct": ""
+  },
+  {
+   "w": "gaye",
+   "spoken": "gaye",
+   "scene": 6,
+   "start": 115.11,
+   "end": 115.314,
+   "punct": ""
+  },
+  {
+   "w": "WhatsApp",
+   "spoken": "WhatsApp",
+   "scene": 6,
+   "start": 115.314,
+   "end": 115.723,
+   "punct": ""
+  },
+  {
+   "w": "button",
+   "spoken": "button",
+   "scene": 6,
+   "start": 115.723,
+   "end": 116.132,
+   "punct": ""
+  },
+  {
+   "w": "par",
+   "spoken": "par",
+   "scene": 6,
+   "start": 116.132,
+   "end": 116.336,
+   "punct": ""
+  },
+  {
+   "w": "message",
+   "spoken": "message",
+   "scene": 6,
+   "start": 116.336,
+   "end": 116.745,
+   "punct": ""
+  },
+  {
+   "w": "kijiye",
+   "spoken": "kijiye",
+   "scene": 6,
+   "start": 116.745,
+   "end": 117.154,
+   "punct": "—"
+  },
+  {
+   "w": "aur",
+   "spoken": "aur",
+   "scene": 6,
+   "start": 117.591,
+   "end": 117.81,
+   "punct": ""
+  },
+  {
+   "w": "claim",
+   "spoken": "claim",
+   "scene": 6,
+   "start": 117.81,
+   "end": 118.028,
+   "punct": ""
+  },
+  {
+   "w": "kijiye",
+   "spoken": "kijiye",
+   "scene": 6,
+   "start": 118.028,
+   "end": 118.466,
+   "punct": ""
+  },
+  {
+   "w": "apna",
+   "spoken": "apna",
+   "scene": 6,
+   "start": 118.466,
+   "end": 118.903,
+   "punct": ""
+  },
+  {
+   "w": "free",
+   "spoken": "free",
+   "scene": 6,
+   "start": 118.903,
+   "end": 119.122,
+   "punct": ""
+  },
+  {
+   "w": "offer",
+   "spoken": "offer",
+   "scene": 6,
+   "start": 119.122,
+   "end": 119.559,
+   "punct": ","
+  },
+  {
+   "w": "aaj",
+   "spoken": "aaj",
+   "scene": 6,
+   "start": 119.8,
+   "end": 119.996,
+   "punct": ""
+  },
+  {
+   "w": "hi",
+   "spoken": "hi",
+   "scene": 6,
+   "start": 119.996,
+   "end": 120.192,
+   "punct": "."
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 0.811,
+   "first": 0,
+   "last": 2
+  },
+  {
+   "start": 1.444,
+   "end": 2.426,
+   "first": 3,
+   "last": 7
+  },
+  {
+   "start": 2.426,
+   "end": 3.9,
+   "first": 8,
+   "last": 12
+  },
+  {
+   "start": 3.9,
+   "end": 4.718,
+   "first": 13,
+   "last": 16
+  },
+  {
+   "start": 5.096,
+   "end": 6.352,
+   "first": 17,
+   "last": 20
+  },
+  {
+   "start": 6.352,
+   "end": 7.137,
+   "first": 21,
+   "last": 24
+  },
+  {
+   "start": 7.137,
+   "end": 7.608,
+   "first": 25,
+   "last": 27
+  },
+  {
+   "start": 8.172,
+   "end": 8.891,
+   "first": 28,
+   "last": 29
+  },
+  {
+   "start": 9.19,
+   "end": 10.37,
+   "first": 30,
+   "last": 34
+  },
+  {
+   "start": 10.37,
+   "end": 12.139,
+   "first": 35,
+   "last": 39
+  },
+  {
+   "start": 12.139,
+   "end": 13.122,
+   "first": 40,
+   "last": 42
+  },
+  {
+   "start": 13.614,
+   "end": 15.455,
+   "first": 43,
+   "last": 46
+  },
+  {
+   "start": 15.455,
+   "end": 16.244,
+   "first": 47,
+   "last": 49
+  },
+  {
+   "start": 16.77,
+   "end": 17.791,
+   "first": 50,
+   "last": 54
+  },
+  {
+   "start": 17.791,
+   "end": 18.812,
+   "first": 55,
+   "last": 58
+  },
+  {
+   "start": 19.163,
+   "end": 20.25,
+   "first": 59,
+   "last": 62
+  },
+  {
+   "start": 20.25,
+   "end": 21.7,
+   "first": 63,
+   "last": 66
+  },
+  {
+   "start": 21.7,
+   "end": 22.244,
+   "first": 67,
+   "last": 69
+  },
+  {
+   "start": 22.966,
+   "end": 24.089,
+   "first": 70,
+   "last": 73
+  },
+  {
+   "start": 24.089,
+   "end": 24.65,
+   "first": 74,
+   "last": 76
+  },
+  {
+   "start": 25.038,
+   "end": 26.698,
+   "first": 77,
+   "last": 80
+  },
+  {
+   "start": 27.396,
+   "end": 29.398,
+   "first": 81,
+   "last": 84
+  },
+  {
+   "start": 29.398,
+   "end": 31.037,
+   "first": 85,
+   "last": 88
+  },
+  {
+   "start": 31.037,
+   "end": 32.129,
+   "first": 89,
+   "last": 91
+  },
+  {
+   "start": 32.894,
+   "end": 34.535,
+   "first": 92,
+   "last": 96
+  },
+  {
+   "start": 34.883,
+   "end": 36.362,
+   "first": 97,
+   "last": 100
+  },
+  {
+   "start": 36.709,
+   "end": 37.764,
+   "first": 101,
+   "last": 102
+  },
+  {
+   "start": 37.969,
+   "end": 39.613,
+   "first": 103,
+   "last": 106
+  },
+  {
+   "start": 40.11,
+   "end": 41.392,
+   "first": 107,
+   "last": 110
+  },
+  {
+   "start": 41.392,
+   "end": 42.491,
+   "first": 111,
+   "last": 114
+  },
+  {
+   "start": 42.491,
+   "end": 43.223,
+   "first": 115,
+   "last": 117
+  },
+  {
+   "start": 43.969,
+   "end": 44.515,
+   "first": 118,
+   "last": 120
+  },
+  {
+   "start": 44.515,
+   "end": 45.607,
+   "first": 121,
+   "last": 123
+  },
+  {
+   "start": 45.965,
+   "end": 47.236,
+   "first": 124,
+   "last": 127
+  },
+  {
+   "start": 47.236,
+   "end": 47.963,
+   "first": 128,
+   "last": 131
+  },
+  {
+   "start": 47.963,
+   "end": 48.871,
+   "first": 132,
+   "last": 134
+  },
+  {
+   "start": 49.435,
+   "end": 50.236,
+   "first": 135,
+   "last": 137
+  },
+  {
+   "start": 50.52,
+   "end": 51.304,
+   "first": 138,
+   "last": 141
+  },
+  {
+   "start": 51.304,
+   "end": 52.245,
+   "first": 142,
+   "last": 144
+  },
+  {
+   "start": 53.045,
+   "end": 53.987,
+   "first": 145,
+   "last": 148
+  },
+  {
+   "start": 53.987,
+   "end": 55.683,
+   "first": 149,
+   "last": 152
+  },
+  {
+   "start": 55.683,
+   "end": 57.378,
+   "first": 153,
+   "last": 156
+  },
+  {
+   "start": 57.648,
+   "end": 58.336,
+   "first": 157,
+   "last": 158
+  },
+  {
+   "start": 59.167,
+   "end": 59.492,
+   "first": 159,
+   "last": 160
+  },
+  {
+   "start": 59.787,
+   "end": 60.904,
+   "first": 161,
+   "last": 164
+  },
+  {
+   "start": 61.3,
+   "end": 62.59,
+   "first": 165,
+   "last": 168
+  },
+  {
+   "start": 63.089,
+   "end": 64.49,
+   "first": 169,
+   "last": 171
+  },
+  {
+   "start": 64.67,
+   "end": 65.428,
+   "first": 172,
+   "last": 173
+  },
+  {
+   "start": 65.695,
+   "end": 66.986,
+   "first": 174,
+   "last": 177
+  },
+  {
+   "start": 67.251,
+   "end": 68.488,
+   "first": 178,
+   "last": 182
+  },
+  {
+   "start": 69.164,
+   "end": 70.288,
+   "first": 183,
+   "last": 186
+  },
+  {
+   "start": 70.721,
+   "end": 72.006,
+   "first": 187,
+   "last": 190
+  },
+  {
+   "start": 72.643,
+   "end": 74.091,
+   "first": 191,
+   "last": 195
+  },
+  {
+   "start": 74.429,
+   "end": 75.474,
+   "first": 196,
+   "last": 199
+  },
+  {
+   "start": 75.966,
+   "end": 76.524,
+   "first": 200,
+   "last": 201
+  },
+  {
+   "start": 76.822,
+   "end": 78.002,
+   "first": 202,
+   "last": 204
+  },
+  {
+   "start": 78.254,
+   "end": 79.368,
+   "first": 205,
+   "last": 207
+  },
+  {
+   "start": 80.07,
+   "end": 81.974,
+   "first": 208,
+   "last": 211
+  },
+  {
+   "start": 82.335,
+   "end": 83.566,
+   "first": 212,
+   "last": 214
+  },
+  {
+   "start": 84.024,
+   "end": 85.609,
+   "first": 215,
+   "last": 219
+  },
+  {
+   "start": 86.093,
+   "end": 87.643,
+   "first": 220,
+   "last": 223
+  },
+  {
+   "start": 88.344,
+   "end": 89.569,
+   "first": 224,
+   "last": 227
+  },
+  {
+   "start": 89.569,
+   "end": 90.304,
+   "first": 228,
+   "last": 230
+  },
+  {
+   "start": 90.654,
+   "end": 92.066,
+   "first": 231,
+   "last": 233
+  },
+  {
+   "start": 92.066,
+   "end": 93.302,
+   "first": 234,
+   "last": 236
+  },
+  {
+   "start": 94.002,
+   "end": 94.58,
+   "first": 237,
+   "last": 238
+  },
+  {
+   "start": 95.111,
+   "end": 96.234,
+   "first": 239,
+   "last": 243
+  },
+  {
+   "start": 96.234,
+   "end": 97.731,
+   "first": 244,
+   "last": 248
+  },
+  {
+   "start": 98.358,
+   "end": 99.805,
+   "first": 249,
+   "last": 252
+  },
+  {
+   "start": 99.805,
+   "end": 100.838,
+   "first": 253,
+   "last": 256
+  },
+  {
+   "start": 101.115,
+   "end": 101.943,
+   "first": 257,
+   "last": 259
+  },
+  {
+   "start": 102.603,
+   "end": 104.024,
+   "first": 260,
+   "last": 264
+  },
+  {
+   "start": 104.805,
+   "end": 105.674,
+   "first": 265,
+   "last": 269
+  },
+  {
+   "start": 106.494,
+   "end": 108.148,
+   "first": 270,
+   "last": 274
+  },
+  {
+   "start": 108.148,
+   "end": 110.009,
+   "first": 275,
+   "last": 279
+  },
+  {
+   "start": 110.852,
+   "end": 111.787,
+   "first": 280,
+   "last": 282
+  },
+  {
+   "start": 112.088,
+   "end": 113.248,
+   "first": 283,
+   "last": 285
+  },
+  {
+   "start": 113.248,
+   "end": 113.944,
+   "first": 286,
+   "last": 288
+  },
+  {
+   "start": 114.292,
+   "end": 115.314,
+   "first": 289,
+   "last": 293
+  },
+  {
+   "start": 115.314,
+   "end": 117.154,
+   "first": 294,
+   "last": 298
+  },
+  {
+   "start": 117.591,
+   "end": 118.466,
+   "first": 299,
+   "last": 301
+  },
+  {
+   "start": 118.466,
+   "end": 119.559,
+   "first": 302,
+   "last": 304
+  },
+  {
+   "start": 119.8,
+   "end": 120.192,
+   "first": 305,
+   "last": 306
+  }
+ ]
+}

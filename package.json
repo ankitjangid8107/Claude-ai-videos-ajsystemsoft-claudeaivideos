@@ -1,0 +1,33 @@
+{
+  "name": "aj-christmas-reel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "align": "python3 scripts/align.py",
+    "previews": "node scripts/previews.mjs",
+    "render:4k": "remotion render src/index.ts AJReel output/AJ_Christmas_Offer_4K_Reels.mp4 --scale=2 --codec=h264 --pixel-format=yuv420p --crf=18 --audio-codec=aac --audio-bitrate=192k --enable-multiprocess-on-linux",
+    "render:1080": "remotion render src/index.ts AJReel output/AJ_Christmas_Offer_1080p_Reels.mp4 --scale=1 --codec=h264 --pixel-format=yuv420p --crf=18 --audio-codec=aac --audio-bitrate=192k --enable-multiprocess-on-linux"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.290",
+    "@remotion/google-fonts": "^4.0.290",
+    "@remotion/media-utils": "^4.0.290",
+    "@remotion/renderer": "^4.0.290",
+    "@remotion/tailwind": "^4.0.290",
+    "@remotion/transitions": "^4.0.290",
+    "lucide-react": "^1.82.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.290"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.3",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.7.0",
+    "postcss": "^8.5.34",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.6.3"
+  }
+}

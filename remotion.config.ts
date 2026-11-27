@@ -1,0 +1,7 @@
+import { Config } from "@remotion/cli/config";
+import { enableTailwind } from "@remotion/tailwind";
+
+Config.setVideoImageFormat("jpeg");
+Config.setJpegQuality(96);
+Config.setOverwriteOutput(true);
+Config.overrideWebpackConfig((c) => enableTailwind(c));
