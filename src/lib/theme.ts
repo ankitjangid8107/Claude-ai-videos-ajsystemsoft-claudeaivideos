@@ -8,10 +8,12 @@ if (typeof document !== "undefined" && !document.getElementById("aj-fonts")) {
   st.id = "aj-fonts";
   st.textContent = css;
   document.head.appendChild(st);
-  const h = delayRender("fonts", { timeoutInMilliseconds: 120000 });
+  const h = delayRender("fonts", { timeoutInMilliseconds: 60000 });
   Promise.all(
     ["800 40px 'Plus Jakarta Sans'", "700 40px 'Plus Jakarta Sans'", "500 40px Inter", "600 40px Inter", "700 40px Inter", "500 40px 'JetBrains Mono'", "700 40px 'JetBrains Mono'", "800 40px 'JetBrains Mono'"].map((f) => document.fonts.load(f, "₹0 AJ aA9")),
   ).then(() => continueRender(h), () => continueRender(h));
+  // safety net: never block a render on font loading (fonts are local, this resolves in ms)
+  setTimeout(() => { try { continueRender(h); } catch { /* already cleared */ } }, 8000);
 }
 
 export const C = {
