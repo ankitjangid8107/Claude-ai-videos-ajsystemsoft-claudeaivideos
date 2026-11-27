@@ -41,20 +41,11 @@ jobs:
       - run: npx tsc --noEmit
       - run: npx remotion browser ensure
 
-      - name: Render 4K 2160x3840 (9:16, 30fps)
+      - name: Render 4K 2160x3840 + 1080p (chunked, retrying)
         run: |
           mkdir -p output
-          npx remotion render src/index.ts AJReel output/AJ_Christmas_Offer_4K_Reels.mp4 \
-            --scale=2 --codec=h264 --pixel-format=yuv420p --crf=18 \
-            --audio-codec=aac --audio-bitrate=192k \
-            --enable-multiprocess-on-linux --timeout=180000
-
-      - name: Render 1080p 1080x1920 fast-upload version
-        run: |
-          npx remotion render src/index.ts AJReel output/AJ_Christmas_Offer_1080p_Reels.mp4 \
-            --scale=1 --codec=h264 --pixel-format=yuv420p --crf=18 \
-            --audio-codec=aac --audio-bitrate=192k \
-            --enable-multiprocess-on-linux --timeout=180000
+          node scripts/render-chunks.mjs 2 output/AJ_Christmas_Offer_4K_Reels.mp4 80 4
+          node scripts/render-chunks.mjs 1 output/AJ_Christmas_Offer_1080p_Reels.mp4 150 4
 
       - name: Verify outputs
         run: |
